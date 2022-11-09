@@ -34,4 +34,4 @@ Soy una persona muy sociable y no me cuesta comunicarme, me gusta conocer gente 
 
 
 
-<h3 align=center>✨🎉✨Ahora si... ¡Estoy listo para comenzar a dar mis primeros pasos trabajando en el mundo IT!✨🎉✨</h3>
+<h3 align=center>✨✨Ahora si... ¡Estoy listo para comenzar a dar mis primeros pasos trabajando en el mundo IT!✨✨</h3>
