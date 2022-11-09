@@ -29,6 +29,12 @@ Las tecnologías que he aprendido hasta el momento son: JavaScript, HTML, CSS, R
   <li>Creatividad.</li>
   <li>Aprendibilidad (Facilidad para aprender nuevas herramientas).</li>
  </ul>
+ 
+<h2>👑 Mis principales proyectos:</h2>
+<ul>
+  <li>Videogames App: https://www.youtube.com/watch?v=rhx9UMUfMXU</li>
+  <li>BooksNook (E-commerce): https://booksnook.vercel.app/</li>
+</ul>
 
 <h2>📝 Contacto:</h2>
 <ul>
