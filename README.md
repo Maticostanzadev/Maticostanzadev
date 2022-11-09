@@ -27,7 +27,7 @@ Las tecnologías que he aprendido hasta el momento son: JavaScript, HTML, CSS, R
   <li>Resolución de problemas.</li>
   <li>Pensamiento lógico.</li>
   <li>Creatividad.</li>
-  <li>Aprendibilidad (Facilidad para aprender nuevas herramientas).</li>
+  <li>Facilidad para aprender nuevas herramientas.</li>
  </ul>
  
 <h2>👑 Mis principales proyectos:</h2>
