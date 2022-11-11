@@ -39,7 +39,7 @@ Las tecnologías que he aprendido hasta el momento son: JavaScript, HTML, CSS, R
 <h2>📝 Contacto:</h2>
 <ul>
 <li>Email: maticostanzadev@gmail.com</li>
-<li>Linkedin: https://www.linkedin.com/in/matias-costanza-78a299248/</li>
+<li>Linkedin: https://www.linkedin.com/in/maticostanzadev</li>
 </ul>
 
 <hr></hr>
